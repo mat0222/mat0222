@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/z6X4p6B/frontend-banner.png" alt="Mateo Liendo | Frontend Developer" />
+  <img src="img/Banner.png" alt="Mateo Liendo | Frontend Developer" />
 </p>
 
 # 👋 ¡Hola! Soy Mateo Liendo  
