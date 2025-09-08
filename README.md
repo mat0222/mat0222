@@ -36,6 +36,9 @@ Simulador de compras donde puedes escojer tu Funko POP con un sistema de tarjeta
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+
 
 ---
 
