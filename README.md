@@ -2,70 +2,48 @@
 <p align="center">
   <img src="img/Banner.png" alt="Mateo Liendo | Frontend Developer" />
 </p>
+# 👋 Hola, soy Mateo Liendo (@mat0222)
 
-# 👋 ¡Hola! Soy Mateo Liendo  
+### Tecnico Desarrollador de Software | React.js • Node.js • SQL
+📍 Villa del Rosario, Córdoba, Argentina
 
-💻 **Frontend Developer** apasionado por crear interfaces modernas y funcionales.  
-🚀 Me gusta aprender nuevas tecnologías y llevar proyectos de idea a producción.  
-
----
-
-## 🚀 Proyectos destacados
-
-### 1. [Sistema Administrativo](https://github.com/mat0222/bicicleteria)
-Sistema de Administracion donde el usuario puede agregar, borrar y editar sus productos.  
-**Tecnologías:** HTML, CSS, JavaScript, PHP  
-**Demo:** https://mat0222.github.io/bicicleteria/  
-
-### 2. [Simulador Futbol Manager](https://github.com/mat0222/Futmania)
-Simulador para sentirte todo un Manager de futbol profesional.  
-**Tecnologías:** Html, CSS, Java Script, MySQL  
-**Demo:** https://mat0222.github.io/Futmania/  
-
-### 3. [Simulador E.Commerce](https://github.com/mat0222/funko-shop)
-Simulador de compras donde puedes escojer tu Funko POP con un sistema de tarjeta y recibo.  
-**Tecnologías:** Html, CSS, Java Script  
-**Demo:** https://mat0222.github.io/funko-shop/ 
+Soy un desarrollador enfocado en entender la lógica de negocio antes de tirar la primera línea de código. Me especializo en transformar procesos manuales (como reservas por WhatsApp o control de stock en Excel) en sistemas web eficientes, seguros y escalables. 
 
 ---
 
-## 🛠️ Lenguajes y herramientas
+## Proyectos Destacados
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+### 1.Matchear - Plataforma SaaS de Gestión de Turnos
+Sistema integral para administrar reservas, horarios y cobros de complejos deportivos con canchas sintéticas.
+* **El Desafío:** Eliminar las dobles reservas y la confusión de horarios generadas por la gestión manual, y dar control financiero a los dueños.
+* **La Solución:** Panel web centralizado con arquitectura de componentes reutilizables. Incluye gestión dinámica de disponibilidad, dashboard con métricas semanales de ingresos y sistema de autenticación seguro.
+* **Tecnologías:** React, Node.js, Tailwind CSS, MySQL, JWT (JSON Web Tokens).
 
+### 2.FobiBike - ERP de Control de Inventario B2B
+Suite web a medida para controlar el stock, proveedores y reportes de una bicicletería local.
+* **El Desafío:** El negocio perdía dinero y tiempo al no tener seguimiento de la rotación de repuestos ni de las actualizaciones de precios.
+* **La Solución:** Desarrollo de un CRUD completo con un motor de alertas inteligentes para reabastecimiento crítico e historial de movimientos.
+* **Tecnologías:** JavaScript, PHP, MySQL, Node.js, HTML/CSS.
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat0222&show_icons=true&theme=tokyonight" alt="Mateo's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat0222&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
-</p>
-
----
-
-## 📬 Conectemos
-
-<p align="center">
-  <a href="mateoliendo022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateo-liendo-8897ba378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mat0222.github.io/portafolio/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 3.Dashboard Deportivo - Motor de Simulación de Ligas
+Aplicación tipo "Football Manager Lite" con motor algorítmico para simular torneos, ideal para gestionar ligas y equipos personalizados con estadísticas reales.
+* **El Desafío:** Procesar, cruzar y renderizar grandes volúmenes de datos relacionales (jugadores, presupuestos, tácticas) en tiempo real.
+* **La Solución:** Un motor de base de datos robusto que calcula el rendimiento, genera tablas de posiciones dinámicas y renderiza animaciones y visualizaciones interactivas de estadísticas.
+* **Tecnologías:** JavaScript, Chart.js, PHP, MySQL, Node.js.
 
 ---
 
-⭐ Si te gusta mi trabajo, ¡no dudes en dejar un star en mis repositorios!  
+## Stack Tecnológico
 
+* **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3.
+* **Backend & Datos:** Node.js, PHP, MySQL, PostgreSQL.
+* **Herramientas & Arquitectura:** Git, GitHub, JWT, VS Code, Diseño de APIs REST.
+
+---
+
+## Conectemos
+
+* **LinkedIn:** [linkedin.com/in/mateo-liendo02](https://www.linkedin.com/in/mateo-liendo02/)
+* **Email:** [mateoliendo022@gmail.com]
+
+⭐ *Si mi código te resulta útil o interesante, ¡agradezco una estrella en los repositorios!*
